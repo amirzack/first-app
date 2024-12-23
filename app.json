@@ -3,7 +3,7 @@
     "name": "first-app",
     "slug": "first-app",
     "version": "1.0.0",
-  "scheme": "first-app",
+    "scheme": "first-app",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
